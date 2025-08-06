@@ -1,2 +1,3 @@
 # self-hosted-ai
-A practical guide to Self Hosted AI chatbots and RAG systems. The starting point.
+Practical guides to Self Hosted AI chatbots and RAG systems. 
+Builds it on your computer - Build it with Privacy.
